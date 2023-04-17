@@ -13,6 +13,6 @@ Ridgelines defined by this program are plotted over CTD transects of temperature
 For instructions and code to run the program, refer to the Jupyter notebook located in this repo found [here](https://github.com/mjzahn/Ridgeline_program/blob/main/ridgeline_program_user_guide.ipynb).
 
 ## Image showing process to extract ridgelines:
-The figure below shows an example for a transect beginning at a glacier front (here, Sverdrup Glacier in NW Greenland) and ending offshore at the edge of the continental shelf. In the ridgeline program, elevation maximums are identified along search lines extending from the thalweg (a) and then outlier points are corrected to provide a final, smoothed line (b). 
+The figure below shows an example for a transect beginning at a glacier front (here, Rink Glacier in NW Greenland) and ending offshore at the edge of the continental shelf. In the ridgeline program, elevation maximums are identified along search lines extending from the thalweg (a) and then outlier points are corrected to provide a final, smoothed line (b). 
 
-![ridgeline](Figures/sverdrup_ridgelines.png)
+![ridgeline](Figures/rink_ridgelines.png)
