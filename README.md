@@ -1,4 +1,5 @@
 # Ridgeline Program
+[![DOI](https://zenodo.org/badge/543837743.svg)](https://zenodo.org/doi/10.5281/zenodo.10645534)
 
 ## Overview:
 This notebook provides a framework for extracting maximum elevation values ('ridges') along either side of a predefined thalweg or channel (obtained from QGIS).
